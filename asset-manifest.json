@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/fpfit-app/static/css/main.e6c13ad2.css",
-    "main.js": "/fpfit-app/static/js/main.08fad884.js",
+    "main.js": "/fpfit-app/static/js/main.70c0a3e1.js",
     "index.html": "/fpfit-app/index.html",
     "main.e6c13ad2.css.map": "/fpfit-app/static/css/main.e6c13ad2.css.map",
-    "main.08fad884.js.map": "/fpfit-app/static/js/main.08fad884.js.map"
+    "main.70c0a3e1.js.map": "/fpfit-app/static/js/main.70c0a3e1.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.08fad884.js"
+    "static/js/main.70c0a3e1.js"
   ]
 }
